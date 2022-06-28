@@ -1,6 +1,7 @@
 
 ## 🌐Socials 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082676565939) 
+![Instagram](https://instagram.com/zeuun.official?igshid=YmMyMTA2M2Y=)
 # 💻Tech Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
