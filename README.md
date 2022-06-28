@@ -12,6 +12,6 @@
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Zeuun&theme=chartreuse-dark&show_icons=true&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeuun&theme=github-green-purple&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=id)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeuun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeuun&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=Zeuun&icon=8&color=1)](https://visitcount.itsvg.in) 
