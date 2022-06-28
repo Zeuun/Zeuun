@@ -10,5 +10,5 @@
 
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Zeuun&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeuun&theme=github-green-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeuun&theme=github-green-purple&hide_border=false)](https://git.io/streak-stats)
 [![](https://visitcount.itsvg.in/api?id=Zeuun&icon=8&color=1)](https://visitcount.itsvg.in) 
