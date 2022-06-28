@@ -15,5 +15,5 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
-# 📊GitHub Stats : ![](https://github-readme-stats.vercel.app/api?username=Zeuun&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=Zeuun&theme=solarized-dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MITSUKI-IID&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+# 📊GitHub Stats : ![](https://github-readme-stats.vercel.app/api?username=Zeuun&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=Zeuun&theme=solarized-dark&hide_border=false)<br/> ![](python) 
 [![](https://visitcount.itsvg.in/api?id=Zeuun&icon=8&color=1)](https://visitcount.itsvg.in) 
